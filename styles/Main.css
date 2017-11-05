@@ -1,7 +1,6 @@
 body{
 	Background-color: lightpink;
 }
-
 	h1{
 		color: White;
 		text-align: center;
@@ -10,7 +9,7 @@ body{
 	p{
 		padding: 50px;
 		text-align: center;
-		font-size: 30px;
+		font-size: 20px;
 		font-family: 'muli',sans-serif;
 	}
 	img{
